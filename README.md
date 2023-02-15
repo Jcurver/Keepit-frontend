@@ -35,14 +35,16 @@ ex6. 추가로 직접 기능들을 하나하나 사용해보며 Side Effect로 �
 ## ⛳️ 기술적 이슈와 해결 과정
 > 작업하며 겪었던 크고작은 다양한 이슈들, 그리고 진행했던 과정과 배운 점들을 기록해 보았습니다.
 #### [Keepit의 핵심 기능 지도 구현하기](https://velog.io/@ifizzyou/Keepit%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5.-%EC%A7%80%EB%8F%84-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-
+> Webview와 Kakao API, Kakao cdn을 활용하여 발생할 수 있는 복잡하고 다양한 유저 이벤트의 모든 케이스를 대응하여 구현하였습니다.
 #### [React-Native Toast 메시지 라이브러리 없이 구현하기](https://velog.io/@ifizzyou/React-Native-Toast-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%A0%9C%EC%9E%91%EA%B8%B0)
-
+> 디자인 요구사항을 만족하는 Toast 라이브러리가 없다고 판단하여 확장성과 안정성을 고려해 직접 Toast 기능을 구현하였습니다.
 #### [상황별 알림 구현을 위해 FCM v6 도입하기](https://velog.io/@ifizzyou/React-Native%EC%97%90-Firebase-Cloud-MessagingFCM-v6-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0)
+> 백그라운드 / 포그라운드 / 인앱 알림 업데이트 및 dev / prd 구분을 위해 많은 시간 검색하고 적용한 내용을 담았습니다. 
 
 #### [효율적인 CI/CD 환경 구축을 위해 CodePush 적용하기](https://velog.io/@ifizzyou/React-Native%EC%97%90-CodePush-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+> CodePush를 통해서 Xcode 대비 CI/CD에 들어가는 시간을 10배 이상 단축하였으며, 무중단 배포 설정 및 업데이트 조건을 설정했습니다.
 
 #### [e2e 테스트코드 작성을 위해 detox 도입](https://velog.io/@ifizzyou/e2e-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%B4-detox-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%8F%84%EC%9E%85%ED%95%98%EB%8B%A4)
-
+> 치명적인 에러를 사전 방지하기 위해서 로그인부터 시작해서 테스트코드를 점진적으로 적용해나가고있습니다.
 ## [작업하며 배우고 느낀 점들](https://github.com/Jcurver/Keepit-frontend/wiki/%EC%9E%91%EC%97%85%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EA%B3%A0-%EB%8A%90%EB%82%80-%EC%A0%90%EB%93%A4)
 > 작업을 진행하면서 코드 내부에서도 많은 어려움을 마주했지만 코드 밖에서도 다양한 어려움이 있었습니다. 그런 어려움들을 극복한 과정들 역시 저에게 소중한 자산이기에 배우고 느낀 점을을 Trouble Shooting과 분리하여 기록하였습니다.
