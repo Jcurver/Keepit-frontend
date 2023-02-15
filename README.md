@@ -47,4 +47,4 @@ ex6. 추가로 직접 기능들을 하나하나 사용해보며 Side Effect로 �
 #### [e2e 테스트코드 작성을 위해 detox 도입](https://velog.io/@ifizzyou/e2e-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%B4-detox-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%8F%84%EC%9E%85%ED%95%98%EB%8B%A4)
 > 치명적인 에러를 사전 방지하기 위해서 로그인부터 시작해서 테스트코드를 점진적으로 적용해나가고있습니다.
 ## [작업하며 배우고 느낀 점들](https://github.com/Jcurver/Keepit-frontend/wiki/%EC%9E%91%EC%97%85%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EA%B3%A0-%EB%8A%90%EB%82%80-%EC%A0%90%EB%93%A4)
-> 작업을 진행하면서 코드 내부에서도 많은 어려움을 마주했지만 코드 밖에서도 다양한 어려움이 있었습니다. 그런 어려움들을 극복한 과정들 역시 저에게 소중한 자산이기에 배우고 느낀 점을을 Trouble Shooting과 분리하여 기록하였습니다.
+> 작업을 진행하면서 **코드 내부에서도 많은 어려움을 마주했지만 코드 밖에서도 다양한 어려움이 있었습니다.** 그런 어려움들을 극복한 과정들 역시 저에게 소중한 자산이기에 배우고 느낀 점을을 Trouble Shooting과 분리하여 기록하였습니다.
