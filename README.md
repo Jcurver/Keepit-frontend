@@ -1,4 +1,5 @@
 # 🗺️  Keepit 우리만의 지도 만들기
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffc5431a0-1708-439d-8fb2-b70e77771bb4%2FFrame_962_(2).png?id=5423bb61-7f77-46b3-9b97-20c932e84e03&table=block&spaceId=018ce4c8-ef04-4787-9fad-a2d0767346d9&width=2000&userId=b8f426d5-3032-4636-a5a5-679cf51e3abc&cache=v2" width="30%" />
 
 #### 앱 소개 링크 >> https://www.notion.so/Keepit-a5f019c1a00a47de9e803d4ca5c3c637
 #### 앱 시연 영상 >> https://www.youtube.com/watch?v=3jTcanIViDc&t=17s
@@ -22,7 +23,7 @@ ex6. 테스트 외적으로도 직접 기능들을 하나하나 사용해보며 
 #### CI/CD를 통한 자동화를 구현하여 쉽게 협업이 가능한 프로젝트를 목표로 합니다.
 > e2e Test, Codepush와 XCode를 적절히 활용하여 무중단 배포 전략 구성하기
 #### Github, Notion, Figma를 통한 활발한 소통을 바탕으로 효율적인 협업을 추구합니다.
-> Git Flow 확립, 주간 회의시 작업내용 컨펌, 실시간 Notion ToDo 업데이트
+> Git Flow 확립, 주간 회의시 작업내용 컨펌, 실시간 Notion ToDo 업데이트.
 
 #### 안정적인 서비스 운영을 위해서 테스트 코드를 작성합니다
 > 기능이 지속적으로 추가되기 때문에 Side Effect 방지를 위해 e2e 테스트를 중점으로 점검합니다.
@@ -53,5 +54,5 @@ ex6. 테스트 외적으로도 직접 기능들을 하나하나 사용해보며 
 
 #### [e2e 테스트코드 작성을 위해 detox 도입](https://velog.io/@ifizzyou/e2e-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%B4-detox-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%8F%84%EC%9E%85%ED%95%98%EB%8B%A4)
 > 치명적인 에러를 사전 방지하기 위해서 로그인부터 시작해서 테스트코드를 점진적으로 적용해나가고 있습니다.
-## [작업하며 배우고 느낀 점들](https://github.com/Jcurver/Keepit-frontend/wiki/%EC%9E%91%EC%97%85%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EA%B3%A0-%EB%8A%90%EB%82%80-%EC%A0%90%EB%93%A4)
-> 작업을 진행하면서 **코드 내부에서도 많은 어려움을 마주했지만 코드 밖에서도 다양한 어려움이 있었습니다.** 그런 어려움들을 극복한 과정들 역시 저에게 소중한 자산이기에 배우고 느낀 점을을 Trouble Shooting과 분리하여 기록하였습니다.
+## ⛳️ [작업하며 배우고 느낀 점들](https://github.com/Jcurver/Keepit-frontend/wiki/%EC%9E%91%EC%97%85%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EA%B3%A0-%EB%8A%90%EB%82%80-%EC%A0%90%EB%93%A4)
+> 작업을 진행하면서 **코드 내부에서도 많은 어려움을 마주했지만 코드 밖에서도 다양한 어려움이 있었습니다.** 그런 어려움들을 극복한 과정들 역시 저에게 소중한 자산이기에 배우고 느낀 점들을 Trouble Shooting과 분리하여 기록하였습니다.
