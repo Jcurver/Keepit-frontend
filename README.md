@@ -1,5 +1,4 @@
 # 🗺️  Keepit 우리만의 지도 만들기
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffc5431a0-1708-439d-8fb2-b70e77771bb4%2FFrame_962_(2).png?id=5423bb61-7f77-46b3-9b97-20c932e84e03&table=block&spaceId=018ce4c8-ef04-4787-9fad-a2d0767346d9&width=2000&userId=b8f426d5-3032-4636-a5a5-679cf51e3abc&cache=v2" width="30%" />
 
 #### 앱 소개 링크 >> https://www.notion.so/Keepit-a5f019c1a00a47de9e803d4ca5c3c637
 #### 앱 시연 영상 >> https://www.youtube.com/watch?v=3jTcanIViDc&t=17s
@@ -21,7 +20,7 @@ ex6. 테스트 외적으로도 직접 기능들을 하나하나 사용해보며 
 #### 클린코드를 위한 꾸준한 코드 리팩토링을 진행 중입니다.
 > 기능이 아무리 많다 한들 제대로 동작하지 않으면 의미가 없습니다. 주기적으로 컴포넌트를 리팩토링하고 props를 수정하고 스타일가이드 정책을 가꾸고 함수 등 관심사를 분리하는 작업을 진행합니다.
 #### CI/CD를 통한 자동화를 구현하여 쉽게 협업이 가능한 프로젝트를 목표로 합니다.
-> e2e Test, Codepush와 XCode를 적절히 활용하여 무중단 배포 전략 구성하기
+> e2e Test, Codepush와 XCode를 상황에 맞게 활용하여 무중단 배포 전략을 구현합니다.
 #### Github, Notion, Figma를 통한 활발한 소통을 바탕으로 효율적인 협업을 추구합니다.
 > Git Flow 확립, 주간 회의시 작업내용 컨펌, 실시간 Notion ToDo 업데이트.
 
