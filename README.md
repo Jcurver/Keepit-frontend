@@ -35,7 +35,7 @@ ex6. 테스트 외적으로도 직접 기능들을 하나하나 사용해보며 
 - Detox
 - FCM
 - React Navigation
-## ⛳️ [Keepit 기능 소개(FrontEnd)](https://github.com/Jcurver/Keepit-frontend/wiki/Keepit-%EA%B8%B0%EB%8A%A5-%EB%AA%A8%EC%9D%8C)
+## ⛳️ [Keepit 기능 소개 및 담당영역(FrontEnd)](https://github.com/Jcurver/Keepit-frontend/wiki/Keepit-%EA%B8%B0%EB%8A%A5-%EB%AA%A8%EC%9D%8C)
 > 개발하는 과정에서 기존 기능에 Side Effect를 발생시키는 기능들이 지속적으로 추가되었기에 이를 해결하는데 많은 시간을 소비하였습니다. 이런 과정을 겪은 뒤로는 새로운 기능이 생겨도 Side Effect가 적게 발생할 수 있도록 코드를 유지보수 하였습니다.
 
 ## ⛳️ 기술적 이슈와 해결 과정
